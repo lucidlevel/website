@@ -991,6 +991,9 @@ Home Section style
     position: relative;
     z-index: 1;
 }
+.service_banner_pad{
+    padding-bottom: 300px;
+}
 .home_text h1{
     font-family: 'Overpass', sans-serif;
     font-size:4.286rem;
@@ -1216,6 +1219,7 @@ service section style
 .service_head{
     font-family: 'Overpass', sans-serif;
     font-size: 500%;
+    line-height: 100%;
 }
 
 .service_about{
