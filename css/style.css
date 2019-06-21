@@ -2094,6 +2094,10 @@ Blog Details Page
    
 }
 
+.featImages iframe{
+    width: 100%;   
+}
+
 .positionImages{
     background: #000;
     color: #fff;
